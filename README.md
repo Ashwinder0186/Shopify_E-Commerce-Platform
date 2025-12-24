@@ -1,4 +1,4 @@
-# 🛒 Shopify2 - E-Commerce Platform
+# 🛒 Shopify - E-Commerce Platform
 
 <div align="center">
 
